@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-3.5.1\bin\Rscript.exe" C:\Users\MAYANK\Desktop\ed\project2\Bike_rental_count.R
